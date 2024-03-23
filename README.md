@@ -1,4 +1,4 @@
-Desktop Application for Books Management System.
+Desktop Application for Books Management System. (from scratch)
 
 Utilised C# for the backend, SQL (internal database) and developed a user-friendly interface.
 
